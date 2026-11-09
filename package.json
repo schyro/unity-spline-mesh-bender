@@ -1,0 +1,19 @@
+{
+  "name": "com.schyro.spline-mesh-bender",
+  "version": "0.1.0",
+  "displayName": "Spline Mesh Bender",
+  "description": "Repeats and bends a source mesh along Unity splines, with chunked output and optional mesh colliders.",
+  "unity": "6000.3",
+  "license": "MIT",
+  "licensesUrl": "https://github.com/schyro/unity-spline-mesh-bender/blob/main/LICENSE.md",
+  "documentationUrl": "https://github.com/schyro/unity-spline-mesh-bender/blob/main/README.md",
+  "author": {
+    "name": "Serkan Yalnız",
+    "url": "https://github.com/schyro"
+  },
+  "dependencies": {
+    "com.unity.mathematics": "1.2.1",
+    "com.unity.modules.physics": "1.0.0",
+    "com.unity.splines": "2.9.1"
+  }
+}

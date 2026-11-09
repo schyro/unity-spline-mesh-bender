@@ -1,0 +1,8 @@
+{
+  "name": "Schyro.SplineMeshBender",
+  "rootNamespace": "Schyro.SplineMeshBender",
+  "references": [
+    "Unity.Mathematics",
+    "Unity.Splines"
+  ]
+}
